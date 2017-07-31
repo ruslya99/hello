@@ -1,0 +1,49 @@
+body {
+	background-color: #04E4ED;
+
+}
+nav .container,
+header .container,
+section .container{
+	min-height: 100px;
+	color:#04E4ED;
+position: relative;
+
+
+}
+
+
+.soc-icons {
+	color:white;
+	position:absolute;
+	right: 10px;
+	top: 10px;
+
+}
+.soc-icons i {
+	margin: 10px;
+
+}
+ #two-users .card{
+ padding:10px;
+ margin:20px;
+}
+ p {
+  width: 200px
+
+
+
+
+}
+    
+   .two-users{ 
+     
+     left: 50%; margin-left: -100px;
+     min-height: 100px;
+     text-align: center;		
+     background-color: #f2f7f2;
+      
+}
+
+
+
