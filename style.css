@@ -1,12 +1,13 @@
 body {
   background-color: #04E4ED;
+  color:#fff;
+
 }
 
 nav .container,
 header .container,
 section .container {
   min-height: 100px;
-  color: #04E4ED;
   position: relative;
 }
 
@@ -38,4 +39,18 @@ p {
   min-height: 100px;
   text-align: center;
   background-color: #f2f7f2;
+}
+
+.img-egg{
+      width: 700px;
+    margin: 0 auto;
+    display: block;
+}
+.img-mac{
+   width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+#two-users img{
+  width: 100%;
 }
