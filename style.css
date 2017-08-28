@@ -22,7 +22,11 @@ section .container {
 .soc-icons i {
   margin: 10px;
 }
-
+#mac{
+  background: #ffffff url(img/mac.png) no-repeat;
+  position:relative;
+  background-size:contain;
+}
 #two-users .card {
   padding: 10px;
   margin: 20px;
